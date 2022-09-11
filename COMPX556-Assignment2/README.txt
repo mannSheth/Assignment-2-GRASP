@@ -1,3 +1,5 @@
+Mann Sheth ID: 1364689
+
 Alpha and Max Iterations are hardcoded and can be changes in the main method if needed.
 
 This Project takes one argument which would be the path to the partial latin square text file.
